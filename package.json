@@ -1,7 +1,7 @@
 {
-  "name": "zomato",
-  "version": "1.1.0",
-  "description": "node.js wrapper for Zomato API",
+  "name": "zomato-wrapper",
+  "version": "1.0.0",
+  "description": "Simple wrapper for Zomato API. Modified version of zomato by ritishgumber.",
   "main": "index.js",
   "dependencies": {
     "request": "^2.74.0"
@@ -19,10 +19,10 @@
     "nodejs",
     "node.js"
   ],
-  "author": "Ritish Gumber",
+  "author": "Michael Nelms",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ritishgumber/zomato"
+    "url": "https://github.com/mikeike24/zomato"
   }
 }
